@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your-username/quotes-parser.git
+    git clone https://github.com/lokomokokoko/quotes-parser.git
     ```
 
 2. Создайте виртуальное окружение и активируйте его:

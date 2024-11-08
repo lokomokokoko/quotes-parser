@@ -65,7 +65,7 @@
     ```
 - Добавление удаленного репозитория
     ```
-    git remote add origin https://github.com/your-username/quotes-parser.git
+    git remote add origin https://github.com/lokomokokoko/quotes-parser.git
     ```
 - Отправка изменений в репозиторий
     ```
